@@ -1,10 +1,5 @@
----
-publishedAt: 2024-11-10
-tags:
-  - proyectos
-  - dronoz
-title: Agricultores y Agrónomos (Industria de Agricultura de Precisión)
----
+# Agricultores y Agrónomos (Industria de Agricultura de Precisión)
+
 Los profesionales del campo requieren herramientas para monitorear y optimizar la producción agrícola, mejorando la eficiencia y reduciendo los costos.
 
 **Soluciones de Dronoz:**

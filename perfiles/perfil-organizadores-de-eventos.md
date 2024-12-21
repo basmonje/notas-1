@@ -1,10 +1,5 @@
----
-publishedAt: 2024-11-10
-tags:
-  - proyectos
-  - dronoz
-title: Organizadores de Eventos (Bodas, Conciertos, Festivales)
----
+# Organizadores de Eventos (Bodas, Conciertos, Festivales)
+
 Los organizadores de eventos necesitan capturar momentos especiales y promocionar futuros eventos con material visual único y memorable.
 
 **Soluciones de Dronoz**:

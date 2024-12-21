@@ -1,10 +1,4 @@
----
-publishedAt: 2024-11-10
-tags:
-  - proyectos
-  - dronoz
-title: Productores Audiovisuales (Cineastas, Directores, Publicistas)
----
+# Productores Audiovisuales (Cineastas, Directores, Publicistas)
 
 Los profesionales del cine y la publicidad requieren tomas visuales creativas y de alto impacto para contar historias de manera innovadora.
 
