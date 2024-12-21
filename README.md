@@ -21,7 +21,7 @@ Este portafolio será una plataforma accesible y visualmente atractiva que desta
 
 El presente plan de trabajo tiene como objetivo desarrollar un portafolio profesional para **Dronoz**, con el fin de mejorar la organización, presentación y gestión de los proyectos audiovisuales realizados. Este portafolio será una plataforma estructurada y visualmente atractiva que fortalecerá la percepción profesional de la marca y permitirá facilitar la escalabilidad del negocio a medida que crece.
 
-**1. Preguntas**
+### 1. Preguntas
 
 - ¿Cuál es la audiencia principal que quieres atraer con este portafolio?
 - ¿Tienes alguna referencia de diseño o sitios web que te inspiren?
@@ -43,7 +43,7 @@ El presente plan de trabajo tiene como objetivo desarrollar un portafolio profes
 - **Objetivo 2:** Mejorar la percepción profesional de Dronoz al presentar el trabajo en un formato visualmente atractivo y estructurado.
 - **Objetivo 3:** Implementar un sistema fácil de actualizar para facilitar la gestión de nuevos proyectos a medida que la marca crece.
 
-**2. Preguntas**
+### 2. Preguntas
 
 - ¿Qué tipo de contenido quieres destacar en el portafolio (videos, imágenes, descripciones técnicas)?
 - ¿Qué funcionalidades adicionales esperas que tenga la plataforma (formulario de contacto, blog, integración con redes sociales)?
@@ -61,7 +61,7 @@ El presente plan de trabajo tiene como objetivo desarrollar un portafolio profes
 | Pruebas y ajustes del portafolio               | Bastián Monje                       |                 |              | Feedback de usuarios, pruebas de usabilidad   |
 | Lanzamiento y promoción                        | Francisco Fuentealba, Bastián Monje |                 |              | Estrategia de marketing, redes sociales       |
 
-**3. Preguntas**
+### 3. Preguntas
 
 - ¿Tienes plazos específicos o hitos importantes que debamos considerar?
 - ¿Para cuando quieres hacer un lanzamiento del sitio web, el cual implica comenzar a recibir trabajos o contestar preguntas sobre tus servicios?
@@ -76,7 +76,7 @@ El presente plan de trabajo tiene como objetivo desarrollar un portafolio profes
 - Servidor web para alojar la plataforma.
 - Servicio para alojar vídeos e imágenes. (cloudfare, youtube).
 
-**4. Preguntas**
+### 4. Preguntas
 
 - ¿Quieres un correo electrónico corporativo?
 
@@ -86,7 +86,7 @@ El presente plan de trabajo tiene como objetivo desarrollar un portafolio profes
 
 El seguimiento se realizará de manera quincenal mediante reuniones para revisar el progreso y solucionar cualquier desafío que surja. Se evaluará si el diseño cumple con las expectativas de presentación y si la plataforma está lista para su lanzamiento.
 
-**5. Preguntas**
+### 5. Preguntas
 
 - ¿Qué indicadores consideras clave para evaluar el éxito del portafolio?
 - ¿Tienes disponibilidad para reuniones de seguimiento cada dos semanas?
@@ -97,7 +97,7 @@ El seguimiento se realizará de manera quincenal mediante reuniones para revisar
 
 El proyecto debe completarse para <Fecha de finalización>, con el portafolio profesional en línea y listo para ser utilizado para atraer nuevos clientes.
 
-**6. Preguntas**
+### 6. Preguntas
 
 - ¿Cuál es tu fecha límite para lanzar el portafolio?
 - ¿Existen eventos o campañas futuras en las que te gustaría usar este portafolio?
