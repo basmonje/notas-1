@@ -73,7 +73,6 @@ El presente plan de trabajo tiene como objetivo desarrollar un portafolio profes
 - Dominio en NIC. [Tarifas](https://www.nic.cl/dominios/tarifas.html)
 - Hosting - Vercel [Free-Account](https://vercel.com/)
 - Videos y material audiovisual proporcionado por el cliente.
-- Servidor web para alojar la plataforma.
 - Servicio para alojar vídeos e imágenes. (cloudfare, youtube).
 
 ### 4. Preguntas
