@@ -1,5 +1,10 @@
 # Recursos para Pagina web de Dronoz
 
+## Paginas de ejemplo
+
+[Mark - Product Manager](https://mprogano.com/ellie)
+[Thaisa - Product Manager](https://www.thaisafernandes.com/implementing-agile)
+
 ## FLYSAFE DJI (método-no-seguro)
 
 API de DJI para ver los [lugares seguros](https://fly-safe.dji.com/nfz/nfz-query) para volar. Aqui esta la [API de areas (faltan parámetros)](https://www-api.dji.com/api/geo/areas). Para visualizar un mapa y realizar efectos dentro del mapa, utilizar [Mapas Leaflet](https://react-leaflet.js.org/docs/start-installation/).
